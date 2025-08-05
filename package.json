@@ -1,0 +1,23 @@
+{
+  "name": "skillicons-tooltip",
+  "private": false,
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "vue": "^3.5.18"
+  },
+  "description": "Extension for syvixor/skills-icons, that has premade components for different frameworks.",
+  "main": "index.js",
+  "keywords": [
+    "vue",
+    "component",
+    "skillicons",
+    "icons",
+    "technologies",
+    "portfolio",
+    "web-api",
+    "extension"
+  ],
+  "author": "madfozjer",
+  "license": "MIT"
+}
