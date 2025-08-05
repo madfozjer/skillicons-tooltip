@@ -4,6 +4,8 @@
   "version": "1.0.0",
   "type": "module",
   "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
     "vue": "^3.5.18"
   },
   "description": "Extension for syvixor/skills-icons, that has premade components for different frameworks. Currently available only for Vue.js. Provides <Icon> with two paramaters: skill and position.",

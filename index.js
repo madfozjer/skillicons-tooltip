@@ -1,2 +1,2 @@
-import Icon from "./src/Icon.vue";
-export { Icon };
+import IconVue from "./src/IconVue.vue";
+export { IconVue as "IconVue" };
