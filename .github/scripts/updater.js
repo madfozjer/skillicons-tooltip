@@ -72,7 +72,9 @@ async function generateDescription(name, id) {
 async function run() {
     console.log("📥 Fetching API...");
 
-    const icons = await (await fetch(apiUrl)).json();
+    const response = await (await fetch(apiUrl)).json();
+    const icons = response.data || [];
+    
     const data = fs.existsSync(dataFile) ? JSON.parse(fs.readFileSync(dataFile, "utf8")) : {};
 
     const updatedData = {};
