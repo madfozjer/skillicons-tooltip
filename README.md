@@ -1,6 +1,6 @@
 # skillicons-tooltip
 
-Extension for syvixor/skills-icons, that has premade components for Vue 3.
+Extension for syvixor/skills-icons, that has premade components for Vue 3 and React.
 
 To setup and use:
 
