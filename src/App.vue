@@ -3,8 +3,7 @@ import Icon from "./Icon.vue";
 </script>
 
 <template>
-  <div
-    style="
+    <div style="
       width: 100%;
       height: 100%;
       display: flex;
@@ -12,8 +11,7 @@ import Icon from "./Icon.vue";
       justify-content: center;
       align-items: center;
       margin-top: 400px;
-    "
-  >
-    <Icon skill="javascript" position="bottom" />
-  </div>
+    ">
+        <Icon skill="javascript" position="bottom" />
+    </div>
 </template>
