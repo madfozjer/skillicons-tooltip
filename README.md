@@ -23,6 +23,6 @@ To setup and use:
 
 2. put name of your skill as 'skill' and 'position' where you want to put it as props.
 
-This library gets images from the skills-icons API.
+This library gets images from the skills-icons API. We are also on npm: https://www.npmjs.com/package/skillicons-tooltip!
 
-Available technologies: Vue.
+Available technologies: Vue, React.
